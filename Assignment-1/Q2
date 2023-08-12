@@ -1,0 +1,7 @@
+The two inbuild methods in tuple are count() and index()
+tuple=(1,2,2,3,3,3,4,7,9)
+tuple.count(2)=2
+tuple.index(3)=3.
+
+The tuples are created to be simple and lightweighted.Since these are immutable designers are not allowed to created 
+more methods as set and dictionary.
