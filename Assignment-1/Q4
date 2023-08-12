@@ -1,0 +1,12 @@
+union() method in set used to union the two sets 
+it wont change anything in the two sets but just union the two sets to a new set without affecting two initial sets.
+set1 = {1, 2, 3}
+set2 = {3, 4, 5}
+result=set1.union(set2)={1, 2, 3, 4, 5}
+
+But on the other hand update method can change the elements by adding the elements into it.
+set1 = {1, 2, 3}
+set2 = {3, 4, 5}
+set1.update(set2)
+set1={1, 2, 3, 4, 5}
+it is effecting the elements in set1.
