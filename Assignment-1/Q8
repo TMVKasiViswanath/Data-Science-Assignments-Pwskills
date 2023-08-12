@@ -1,0 +1,5 @@
+dict1 = {'Sport': 'Cricket' , 'Teams': ['India', 'Australia', 'England', 'South Africa', 'Sri Lanka', 'New Zealand']}
+the three view object in dictionary is dict1.keys(), dict1.values(), dict1.items() 
+keys_view = dict1.keys()
+values_view = dict1.values()
+items_view = dict1.items()
