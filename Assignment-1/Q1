@@ -1,0 +1,7 @@
+Tuple is a fundamental Daa structure.
+1.Items in tuple are maintained in specific order
+2.Thesse are immutable.we can not edit the elements in tuple
+3.this can hold any data type.
+This can be represented using ()
+
+Yes this is immutable.
