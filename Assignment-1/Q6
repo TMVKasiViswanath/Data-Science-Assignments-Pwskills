@@ -1,0 +1,3 @@
+Yes we can create a nested dictionary.
+d3={"nested":{"name":"kasi iswanath", "age":21}}
+here key is nested and value is {"name":"kasi iswanath", "age":21}
