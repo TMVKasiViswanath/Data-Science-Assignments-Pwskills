@@ -1,0 +1,4 @@
+dictionary is datatype that can store key value pair.
+dict={1:"Viswanath",2:"surya"}
+the key should be immutable datatype and the value can be any datatype.
+dictionary is a ordered data type.
