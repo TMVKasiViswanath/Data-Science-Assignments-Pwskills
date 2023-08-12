@@ -1,0 +1,3 @@
+d={}
+topics_list = ['Python', 'Machine Learning', 'Deep Learning']
+d.setdefault('topics', topics_list)
