@@ -1,0 +1,16 @@
+Generator function is a special type of function that can return the value at the specific time 
+without remembering the whole list at a time. this is memory effficient process where it can be used at athe time of large datta sets
+This can be achieved by using yield keyword.
+
+def squares():
+    i=0
+    while i<5:
+        yield i**2
+        i+=1
+for i in squares():
+    print(i)
+0
+1
+4
+9
+16
