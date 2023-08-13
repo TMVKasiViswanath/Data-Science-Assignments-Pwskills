@@ -1,0 +1,6 @@
+iterator is just to iterate over the given list.
+List=[2, 4, 6, 8, 10, 12, 14, 16,18, 20].
+iterator=iter(List)
+for i in range(5)
+    element=next(iterator)
+    print(element)   
