@@ -1,0 +1,4 @@
+List=['python', 'php', 'aba', 'radar', 'level']
+
+list(filter(lambda x: x==x[::-1] , List))
+['php', 'aba', 'radar', 'level']
