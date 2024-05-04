@@ -3,18 +3,22 @@ This repository contains my submissions for the Data Science Masters course at P
 
 # Topics Covered
 ## Python:
-Basic to advanced Python programming concepts.
+Basic to advanced Python programming concepts inclusing OOPS and File Handling.
 ## Statistics and Probability:
-Statistical analysis and probability theory.
+Basics of Statistics, Probability Theory(Probability distributions, Bayes' theorem)
+#### Hypothesis Testing:
+t-test: One-sample t-test, independent samples t-test, paired samples t-test.
+Chi-Square Test: Goodness of fit test, test of independence.
+ANOVA Test: One-way ANOVA, ANOVA with multiple factors.
 ## Machine Learning: 
-Various machine learning algorithms and techniques.
+Featur Engineering, handling outliers, Understanding Superviesd and Unsupervised Algorithms indepth and hands on using scikit-learn library.
 ## Deep Learning: 
-Deep learning concepts using TensorFlow and Keras.
+Neural Networks, Convolution Neural Networks(CNN), RNN and LSTM 
 ## Power BI:
-Data visualization and analytics using Power BI.
+Data visualization, Data cleaning with power Quary, DAX.
 ## Python Libraries: 
 pandas, numpy, matplotlib, and seaborn for data manipulation and visualization.
 ## Computer Vision: 
-Object detection and YOLO algorithm.
+Object detection and YOLO algorithm indepth archtecture.
 ## Natural Language Processing (NLP):
-NLP concepts and techniques.
+Text Preprocessing, word embeddings, NLTK
